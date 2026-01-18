@@ -11,6 +11,7 @@ A deployed example of the application is available here:
 👉 https://apacheta.projects.earthengine.app/view/dss-hti
 
 The demo illustrates an integrated Land Degradation Neutrality Decision Support System for Haiti.
+<img width="1826" height="927" alt="image" src="https://github.com/user-attachments/assets/2be0619f-9584-4cb8-8df5-6f444f69a447" />
 
 ---
 
