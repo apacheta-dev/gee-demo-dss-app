@@ -1,3 +1,5 @@
+<img width="1489" height="202" alt="logo-apacheta-pislm-wocat-gef" src="https://github.com/user-attachments/assets/2dd9cdff-41a4-48a8-9620-8715ba2944a2" />
+
 # Land Degradation Neutrality Decision Support System (DSS) – DEMO for Haiti
 
 This repository contains the source code for a **Google Earth Engine (GEE) App** designed to support **integrated analysis and decision-making for Land Degradation Neutrality (LDN)**. The application provides a **multi-layer, multi-criteria decision support environment** combining several datasets and indicators related to land degradation and sustainable land management.
