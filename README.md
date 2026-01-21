@@ -77,9 +77,6 @@ The application is organized into several thematic sections:
 - **Land Cover Transitions**
   - Visualization of land cover gains, loss, and degradation for the selected product.
 
-- **Land Cover Transitions**
-  - Visualization of land cover gains, loss, and degradation for the selected product.
-
 - **Multi-Criteria Hotspot Analysis**
   - Combination of multiple indicators to identify priority intervention areas.
 
