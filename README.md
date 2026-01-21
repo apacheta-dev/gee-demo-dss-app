@@ -89,8 +89,8 @@ Each section is linked to dedicated statistical summaries available in the right
 
 ## 🌍 How to Adapt This App for a New Country
 
-1. Open the **Google Earth Engine Code Editor**:  
-   https://code.earthengine.google.com
+1. Add the read only repo to your **Google Earth Engine Code Editor** using this link: 
+   https://code.earthengine.google.com/?accept_repo=users/apacheta/dss-demo
 2. Copy the contents of the `app-dss` folder into your GEE repository and update script file paths accordingly.
 3. Update country-specific terminology and labels in `localization.js`.
 4. Prepare or import the required input datasets (LC, LPD, SOC and ancillary layers).
